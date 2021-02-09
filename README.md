@@ -1,4 +1,4 @@
-# Model-Operating-Agreement
+# Single-Member Operating Agreement (Model)
 <p>
 This document was created by students in the UW Law & Entrepreneurship Clinic</br>
 <a href="https://www.uwle.org/">www.uwle.org</a></p>
